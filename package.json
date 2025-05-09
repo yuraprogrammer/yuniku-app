@@ -1,9 +1,8 @@
 {
+  "homepage": "https://yuraprogrammer.github.io/yuniku-app/",
   "name": "yuniku-app",
   "version": "0.1.0",
-  "homepage": "https://yuraprogrammer.github.io/yuniku-app/",
   "private": true,
-  
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
